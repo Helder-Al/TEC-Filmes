@@ -65,3 +65,5 @@ const DATA =
         imagem:'10.jpg'
     }
 ]
+
+export default DATA
